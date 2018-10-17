@@ -1,0 +1,20 @@
+.card {
+  margin: 1rem;
+  background: white;
+  box-shadow: 2px 4px 25px rgba(0, 0, 0, .1);
+  border-radius: 24px;
+  overflow: hidden;
+}
+
+h3 {
+    padding: 15px;
+}
+
+p1 {
+    padding: 10px;
+}
+
+body {
+    background-image: url("https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/thegrocerant.jpg");
+    background-repeat: no-repeat;
+}
