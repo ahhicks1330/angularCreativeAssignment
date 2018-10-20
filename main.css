@@ -20,15 +20,3 @@ body {
     background-size: cover;
     background-position: center top;
 }
-
-#footer {
-    position: absolute;
-    left: 0;
-    bottom: 0;
-    right: 0px;
-    margin-bottom: 0px;
-    width: 100%;
-    text-align: center;
-    height: 40px;
-    line-height: 40px;
-}
